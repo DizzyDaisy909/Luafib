@@ -1,4 +1,3 @@
---if it hangs, hit ctrl + alt + m
 ::begin::
 function fib(n)
     local a,b = 1,1 -- defines a and b as 1 and 1
